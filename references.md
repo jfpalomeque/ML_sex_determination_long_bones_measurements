@@ -1,5 +1,5 @@
 # Machine learning for  sex determination of human skeletal remains from bones measurements
-##References
+## References
 - Akhlaghi, M., Sheikhazadi, A., Ebrahimnia, A., Hedayati, M., Nazparvar, B., & Saberi Anary, S. H. (2012). The value of radius bone in prediction of sex and height in the Iranian population. Journal of Forensic and Legal Medicine, 19(4), 219–222. https://doi.org/10.1016/j.jflm.2011.12.030
 - Albanese, J., Cardoso, H. F. V., & Saunders, S. R. (2005). Universal methodology for developing univariate sample-specific sex determination methods: An example using the epicondylar breadth of the humerus. Journal of Archaeological Science, 32(1), 143–152. https://doi.org/10.1016/j.jas.2004.08.003
 - Alunni-Perret, V., Staccini, P., & Quatrehomme, G. (2008). Sex determination from the distal part of the femur in a French contemporary population. Forensic Science International, 175(2–3), 113–117. https://doi.org/10.1016/j.forsciint.2007.05.018
